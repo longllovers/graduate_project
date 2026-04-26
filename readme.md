@@ -3,7 +3,7 @@
 本项目是一个基于 Flask 和 YOLO 构建的工业级城市管网缺陷智能检测和管理平台。集成了图像/视频目标检测、后台数据大屏可视化分析、设备与用户系统管理，并通过大语言模型 (LLM) 提供了专门优化过的“管网助手” AI Agent 智能交互能力。
 
 ## 代码
-[点此跳转](https://drive.google.com/drive/folders/146OLBqSXTINd1SA3ybxMlF_oRuCZ_RNz?usp=drive_link)
+[点此跳转](https://drive.google.com/drive/folders/19wq_ceDhdpgBXBw4lrp_R2_kem-FoWIK?usp=drive_link)
 
 ## 🌟 核心特性展示
 
